@@ -1,0 +1,4 @@
+#Fri Feb 28 19:54:51 EST 2020
+base.0=/Users/samuelgerges/New OneDrive/OneDrive/Sheridan/Degree/Winter 2020/Mobile Web Applications/React Native Projs/Assignment1/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
